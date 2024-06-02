@@ -14,4 +14,6 @@ Lalu host cek IP agar bisa diakses oleh patner/client
 
 Pada client diperlukan untuk membuka browser dan mamsukan IP dari host
 
-![Uploading 312707436-d6c1f46e-df1c-4618-a433-5d08330b93e0.png…]()
+![312707436-d6c1f46e-df1c-4618-a433-5d08330b93e0](https://github.com/09030582226039/Laporan-kabel-lan-dan-sserver/assets/126418106/6e115c6e-7543-4873-ab85-819a4d6b56f9)
+
+
